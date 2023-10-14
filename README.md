@@ -32,6 +32,7 @@ Performing K-Means clustering on the PCA-reduced data to see if it offers better
 
 ### Result Analysis
 Comparing and analyzing the clusters obtained from the original and PCA-reduced data.
+
 ![2023_10_14_08_39_25_Crypto_Clustering_Jupyter_Notebook](https://github.com/ashakozak/-CryptoClustering-/assets/134185577/38306d09-1bd2-4359-82a9-f706c621fce4)
 ![2](https://github.com/ashakozak/-CryptoClustering-/assets/134185577/128c78e5-5066-434c-8eca-f5e8aead72ce)
 
